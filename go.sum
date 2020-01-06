@@ -1,0 +1,8 @@
+github.com/mdigger/goldmark-formatter v0.0.0-20200106164310-b1541ff9c779 h1:WqZC+ItwUshv7ZbRB0z/BBjKV6mGO2kg9qbglYRFD9w=
+github.com/mdigger/goldmark-formatter v0.0.0-20200106164310-b1541ff9c779/go.mod h1:2F1ZcwEz0Xa/KxwQ5BSAlNEsjQbp2diijzkKDl9i3II=
+github.com/yuin/goldmark v1.1.20 h1:WZzdEFW2cYKjlc9wvNRh1+t2n7m8h+g0mB0ssg9nzHQ=
+github.com/yuin/goldmark v1.1.20/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2 h1:XZx7nhd5GMaZpmDaEHFVafUZC7ya0fuo7cSJ3UCKYmM=
+gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
