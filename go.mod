@@ -1,4 +1,4 @@
-module github.com/mdigger/mdfm
+module github.com/mdigger/mdfmt
 
 go 1.13
 
